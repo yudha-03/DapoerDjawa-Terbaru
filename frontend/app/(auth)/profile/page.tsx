@@ -1,0 +1,25 @@
+import type { Metadata } from 'next';
+
+import UserProfile from '@/app/(auth)/profile/components/UserProfile';
+import AddressBook from '@/app/(auth)/profile/components/AddressBook';
+import { Footer } from '@/components/layout/Footer';
+import { STORE_NAME } from '@/lib/store-defaults';
+
+export const metadata: Metadata = {
+  title: 'Profil Akun',
+  description: `Lihat informasi profil, alamat email, dan hak akses akun ${STORE_NAME} Anda.`,
+  robots: { index: false, follow: false },
+  alternates: { canonical: '/profile' },
+};
+
+export default function AfterLoginPage() {
+  return (
+    <main className="flex min-h-screen flex-col bg-gray-50 pt-20 text-gray-800 md:pt-24">
+      <section className="flex w-full flex-1 flex-col items-center gap-6 px-4 py-6 md:py-10">
+        <UserProfile />
+        <AddressBook />
+      </section>
+      <Footer />
+    </main>
+  );
+}

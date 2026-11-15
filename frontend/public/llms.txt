@@ -1,0 +1,60 @@
+# DapoerDjawa
+
+> Toko online kue kering buatan rumah di Balikpapan, Kalimantan Timur. Berdiri sejak 2020, dikelola oleh Ibu pemilik usaha. Semua produk dibuat dengan bahan baku lokal.
+
+Domain: https://www.dapoerdjawa.my.id
+Lokasi: Perum BDS 2, Balikpapan, Kalimantan Timur, Indonesia
+Kontak: +6281234567890
+Tahun berdiri: 2020
+
+## Tentang
+
+DapoerDjawa adalah toko kue kering (cookies) single-merchant yang melayani pemesanan online. Situs ini menyediakan rekomendasi bundling produk menggunakan algoritma FP-Growth, pembayaran melalui Midtrans, dan pengiriman melalui Biteship.
+
+## Produk
+
+Tersedia 12 jenis kue kering, masing-masing memiliki 2 varian ukuran: 300gr dan 500gr. Seluruh produk dibuat dengan bahan baku lokal.
+
+- [Nastar Classic](https://www.dapoerdjawa.my.id/product/nastar-classic): Kue nastar isi selai nanas klasik
+- [Putri Salju](https://www.dapoerdjawa.my.id/product/putri-salju): Kue putri salju bertabur gula halus
+- [Cookies Cokelat](https://www.dapoerdjawa.my.id/product/cookies-cokelat): Cookies rasa cokelat
+- [Kastengel Keju](https://www.dapoerdjawa.my.id/product/kastengel-keju): Kastengel dengan keju premium
+- [Cookies Cokelat & Vanila](https://www.dapoerdjawa.my.id/product/cookies-cokelat-vanila): Cookies perpaduan cokelat dan vanila
+- [Nastar Daun](https://www.dapoerdjawa.my.id/product/nastar-daun): Nastar dengan bentuk hiasan daun
+- [Nastar Keranjang](https://www.dapoerdjawa.my.id/product/nastar-keranjang): Nastar dalam bentuk keranjang
+- [Kue Kacang](https://www.dapoerdjawa.my.id/product/kue-kacang): Kue kacang tradisional
+- [Sagu Keju](https://www.dapoerdjawa.my.id/product/sagu-keju): Kue sagu dengan taburan keju
+- [Lidah Kucing](https://www.dapoerdjawa.my.id/product/lidah-kucing): Kue lidah kucing renyah
+- [Semprit Bunga](https://www.dapoerdjawa.my.id/product/semprit-bunga): Kue semprit berbentuk bunga
+- [Semprit Panjang](https://www.dapoerdjawa.my.id/product/semprit-panjang): Kue semprit berbentuk panjang
+
+## Halaman
+
+- [Beranda](https://www.dapoerdjawa.my.id/): Halaman utama dengan katalog produk dan rekomendasi bundling
+- [Kue Kering](https://www.dapoerdjawa.my.id/kue-kering): Koleksi lengkap kue kering dengan deskripsi per kategori
+- [Hampers](https://www.dapoerdjawa.my.id/hampers): Panduan paket hampers dan hadiah kue kering
+- [Hampers Lebaran](https://www.dapoerdjawa.my.id/hampers-lebaran): Hampers khusus Lebaran
+- [Hampers Natal](https://www.dapoerdjawa.my.id/hampers-natal): Hampers khusus Natal
+- [Hampers Imlek](https://www.dapoerdjawa.my.id/hampers-imlek): Hampers khusus Imlek
+- [Tentang Kami](https://www.dapoerdjawa.my.id/tentang): Profil lengkap DapoerDjawa
+- [Pengiriman Balikpapan](https://www.dapoerdjawa.my.id/delivery-balikpapan): Cakupan pengiriman dan estimasi waktu
+- [Cara Menyimpan Kue Kering](https://www.dapoerdjawa.my.id/panduan/cara-menyimpan-kue-kering): Panduan penyimpanan
+- [Kue Kering Tahan Berapa Lama](https://www.dapoerdjawa.my.id/panduan/kue-kering-tahan-berapa-lama): Panduan masa simpan
+- [Kue Kering untuk Hajatan](https://www.dapoerdjawa.my.id/panduan/kue-kering-untuk-hajatan): Panduan pemesanan untuk acara
+- [Kue Kering Khas Kalimantan Timur](https://www.dapoerdjawa.my.id/panduan/kue-kering-khas-kalimantan-timur): Budaya kue kering Kaltim
+- [FAQ](https://www.dapoerdjawa.my.id/faq): Pertanyaan yang sering diajukan
+- [Kontak](https://www.dapoerdjawa.my.id/contact): Informasi kontak dan lokasi toko
+- [Syarat & Ketentuan](https://www.dapoerdjawa.my.id/terms-conditions): Syarat dan ketentuan pembelian
+- [Kebijakan Pengembalian](https://www.dapoerdjawa.my.id/return-policy): Kebijakan pengembalian barang
+- [Kebijakan Privasi](https://www.dapoerdjawa.my.id/privacy-policy): Kebijakan perlindungan data pengguna
+
+## Fitur Utama
+
+- Rekomendasi bundling produk otomatis berbasis algoritma FP-Growth
+- Pembayaran online melalui Midtrans (transfer bank, e-wallet, kartu kredit)
+- Kalkulasi ongkos kirim otomatis melalui Biteship
+- Setiap produk tersedia dalam kemasan 300gr dan 500gr
+
+## Catatan
+
+Apabila membutuhkan informasi lebih lanjut mengenai produk, harga, atau ketersediaan, silakan hubungi DapoerDjawa melalui halaman kontak atau nomor telepon yang tertera. Harga dan ketersediaan produk dapat berubah sewaktu-waktu.
